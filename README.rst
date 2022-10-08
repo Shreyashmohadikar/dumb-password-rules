@@ -1330,6 +1330,15 @@ Oh and also look we got pages **NOT TRANSLATED IN FRENCH** because duh.
 |Izly by Crous|
 
 
+`Jaa Lifestyle <https://www.jaalifestyle.com/>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When we try to change password and accidentally gave a wrong password for confirm password.
+Lets try to read and figure out what they are trying to point out.
+
+|Jaa|
+
+
 `Jitterbit <https://www.jitterbit.com/>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2714,6 +2723,21 @@ confusion when the password wouldn't work.
 |Virgin Trains|
 
 
+`Vistara <https://www.airvistara.com/in/en/club-vistara/register>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Password must contain:
+
+- 8 to 12 Characters.
+- Atleast one lowercase and uppercase letter.
+- Atleast one numeric character.
+- Atleast one special character (!, @, #, $, %, %, ^, &, +, =).
+
+Must not contain space, first or last name.
+
+|Vistara|
+
+
 `Wageworks <https://participant.wageworks.com/Home.aspx>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -2963,6 +2987,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Irodoricomics| image:: /screenshots/irodoricomics.png
 .. |IRS| image:: /screenshots/irs.png
 .. |Izly by Crous| image:: /screenshots/izly-by-crous.png
+.. |Jaa| image:: /screenshots/JaaLifestyle.png
 .. |Jitterbit| image:: /screenshots/jitterbit.png
 .. |Keimyung1| image:: /screenshots/keimyung1.png
 .. |Keimyung2| image:: /screenshots/keimyung2.png
@@ -3106,6 +3131,7 @@ The new Password cannot be the same as the last 32 passwords you have used. (the
 .. |Virgin Media| image:: /screenshots/virginmedia.jpg
 .. |Virgin Mobile| image:: /screenshots/virginmobile.png
 .. |Virgin Trains| image:: /screenshots/virgintrains.jpg
+.. |Vistara| image:: /screenshots/Vistara.png
 .. |WageWorks| image:: /screenshots/wageworks.png
 .. |Walmart| image:: /screenshots/walmart.png
 .. |Waze| image:: /screenshots/waze.png
